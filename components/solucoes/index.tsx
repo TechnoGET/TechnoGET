@@ -77,7 +77,7 @@ export function Solucoes() {
       </div>
       <Button size="lg" className="text-base mt-5 w-1/2 text-black">
         <a href="https://wa.me/5511921660920" target="_blank">
-          Falar com vendedor
+          Fale com um consultor
         </a>
       </Button>
       <footer className="w-full h-[70px] mt-30 py-7 bg-[#1f1f1f] flex items-center justify-center text-white">

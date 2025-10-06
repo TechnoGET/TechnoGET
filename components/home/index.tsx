@@ -25,7 +25,7 @@ export default function Home() {
               target="_blank"
               className="flex-1"
             >
-              Falar com vendedor
+              Fale com um consultor
             </a>
           </Button>
         </div>
