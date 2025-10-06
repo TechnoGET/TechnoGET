@@ -13,7 +13,7 @@ export function Solucoes() {
       id="solucoes"
       className="md:px-24 px-4 h-dvh flex flex-col justify-center items-center"
     >
-      <h1 className="md:text-5xl text-2xl md:pt-0 pt-120 font-medium text-center mb-10">
+      <h1 className="md:text-5xl text-2xl md:pt-50 pt-120 font-medium text-center mb-10">
         Softwares que se adaptam a <span className="text-primary">você</span>
       </h1>
 
